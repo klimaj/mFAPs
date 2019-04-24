@@ -4,4 +4,8 @@ Jason C. Klima, Lindsey A. Doyle, Justin H. Lee, Michael F. Rappleye, Lauren A. 
 
 Correspondence to: dabaker@uw.edu; klimaj@uw.edu
 
-Computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, and mFAP2a and mFAP2b decoys.
+Instructions to download computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, and mFAP2a and mFAP2b decoys:
+
+On the terminal command line:
+1. `git clone git@github.com:klimaj/mFAPs.git`
+2. `tar -xzf pdbs.tar.gz`
