@@ -8,4 +8,5 @@ Instructions to download computational design models for the 59 extended loop de
 
 On the terminal command line:
 1. `git clone git@github.com:klimaj/mFAPs.git`
-2. `tar -xzf pdbs.tar.gz`
+2. `cd mFAPs`
+3. `tar -xzf pdbs.tar.gz`
