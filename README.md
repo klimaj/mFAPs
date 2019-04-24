@@ -1,4 +1,4 @@
-mFAPs: A Versatile Platform For New Fluorescent Protein Sensor Engineering
+<b>mFAPs: A Versatile Platform For New Fluorescent Protein Sensor Engineering</b>
 
 Jason C. Klima, Lindsey A. Doyle, Justin H. Lee, Michael F. Rappleye, Lauren A. Gagnon, Min Yen Lee, Anastassia A. Vorobieva, Jiayi Dou, Emilia P. Barros, Samantha Bremner, Hao Shen, Cameron Chow, Lauren Carter, Nathan J. Sniadecki, David L. Mack, Rommie E. Amaro, Joshua C. Vaughan, Andre Berndt, Barry L. Stoddard, David Baker
 
