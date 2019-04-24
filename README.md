@@ -6,7 +6,4 @@ Correspondence to: dabaker@uw.edu; klimaj@uw.edu
 
 Instructions to download computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, and mFAP2a and mFAP2b decoys:
 
-On the terminal command line:
-1. `git clone git@github.com:klimaj/mFAPs.git`
-2. `cd mFAPs`
-3. `tar -xzf pdbs.tar.gz`
+On the terminal command line: `git clone git@github.com:klimaj/mFAPs.git && cd mFAPs && tar -xzf pdbs.tar.gz`
