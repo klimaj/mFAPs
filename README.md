@@ -4,6 +4,9 @@ Jason C. Klima, Lindsey A. Doyle, Justin H. Lee, Michael F. Rappleye, Lauren A. 
 
 Correspondence to: dabaker@uw.edu; klimaj@uw.edu
 
-To download computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, and mFAP2a and mFAP2b decoys, on the terminal command line:
+Contents:
+`pdbs.tar.gz`: Computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, mFAP2a and mFAP2b decoys.
+`valls.tar.gz`: β-barrel loop fragment libraries used to generate the extended loop library.
 
-`git clone https://github.com/klimaj/mFAPs.git && cd mFAPs && tar -xzf pdbs.tar.gz && cd pdbs`
+To download and extract, on the terminal command line:
+`git clone https://github.com/klimaj/mFAPs.git && cd mFAPs && tar -xzf pdbs.tar.gz && tar -xzf valls.tar.gz`
