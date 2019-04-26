@@ -9,4 +9,5 @@ Contents:
 `valls.tar.gz`: β-barrel loop fragment libraries used to generate the extended loop library.
 
 To download and extract, on the terminal command line:
+
 `git clone https://github.com/klimaj/mFAPs.git && cd mFAPs && tar -xzf pdbs.tar.gz && tar -xzf valls.tar.gz`
