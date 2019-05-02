@@ -10,6 +10,8 @@ Contents:
 
 `valls.tar.gz`: β-barrel loop fragment databases used to design the extended loop library.
 
+`Supplementary_Note_3.ipynb`: Python script to design combinatorial library of linkers for grafting one EF-hand motif onto loop7 of mFAP2b.
+
 To download and extract, on the terminal command line:
 
 `git clone https://github.com/klimaj/mFAPs.git && cd mFAPs && tar -xzf pdbs.tar.gz && tar -xzf valls.tar.gz`
