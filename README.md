@@ -6,11 +6,11 @@ Correspondence to: dabaker@uw.edu; klimaj@uw.edu
 
 Contents:
 
-`pdbs.tar.gz`: Computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, mFAP2a and mFAP2b decoys.
+* `pdbs.tar.gz`: Computational design models for the 59 extended loop decoys, 5 refined extended loop7 decoys, mFAP2a and mFAP2b decoys.
 
-`valls.tar.gz`: β-barrel loop fragment databases used to design the extended loop library.
+* `valls.tar.gz`: β-barrel loop fragment databases used to design the extended loop library.
 
-`Supplementary_Note_3.ipynb`: Python script to design combinatorial library of linkers for grafting one EF-hand motif onto loop7 of mFAP2b.
+* `Supplementary_Note_3.ipynb`: Python script to design combinatorial library of linkers for grafting one EF-hand motif onto loop7 of mFAP2b.
 
 To download and extract, on the terminal command line:
 
