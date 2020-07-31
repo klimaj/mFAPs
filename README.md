@@ -14,6 +14,14 @@ Contents:
 
 * `Supplementary_Note_4.py`: PyRosetta script to circularly permute mFAP2a and mFAP2b.
 
+* `Supplementary_Table_1_left.json`: Machine-readable Supplementary Table 1 (left)
+
+* `Supplementary_Table_1_center.json`: Machine-readable Supplementary Table 1 (center)
+
+* `Supplementary_Table_1_right.json`: Machine-readable Supplementary Table 1 (right)
+
+* `Supplementary_Table_2.json`: Machine-readable Supplementary Table 2
+
 * `HBI.fa.params`: Full-atom parameterization for DFHBI chromophore. 
 
 * `HBI.cen.params`: Centroid parameterization for DFHBI chromophore.
