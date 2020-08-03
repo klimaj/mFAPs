@@ -2,7 +2,7 @@
 
 Jason C. Klima, Lindsey A. Doyle, Justin Daho Lee, Michael Rappleye, Lauren A. Gagnon, Min Yen Lee, Emilia P. Barros, Anastassia A. Vorobieva, Jiayi Dou, Samantha Bremner, Jacob S. Quon, Cameron M. Chow, Lauren Carter, David L. Mack, Rommie E. Amaro, Joshua C. Vaughan, Andre Berndt, Barry L. Stoddard, David Baker
 
-Correspondence to: dabaker@uw.edu; klima.jason@gmail.com
+Correspondence to: dabaker@uw.edu; klimaj@uw.edu
 
 Contents:
 
