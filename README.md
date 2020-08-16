@@ -22,6 +22,10 @@ Contents:
 
 * `Supplementary_Table_2.json`: Machine-readable Supplementary Table 2
 
+* `D1T.fa.params`: Full-atom parameterization for DFHBI-1T chromophore. 
+
+* `D1T.cen.params`: Centroid parameterization for DFHBI-1T chromophore.
+
 * `HBI.fa.params`: Full-atom parameterization for DFHBI chromophore. 
 
 * `HBI.cen.params`: Centroid parameterization for DFHBI chromophore.
